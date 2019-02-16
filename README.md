@@ -11,3 +11,5 @@ The graphs are as follows
 4) Showing how coal emissions have changed over the interval in the entire USA
 5) Showing how emissions from motor vehicles have changed over the interval in Baltimore City (MD)
 6) Showing changes in emissions from motor vehicles over the four yearly measurememnts in Los Angeles County (CA) and Baltimore City (MD)
+
+Note that I cannot upload the actual data file because it is too large for Github. The classification codes provide some insight into what is meant by the numeric codes in the data file. Most helpfully this allows for determining whether the carbon source was coal, vehicle, or whatever other kind.
